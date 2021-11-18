@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "mkdir papa"
+    }
+  }
+}
